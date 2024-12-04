@@ -1,0 +1,2 @@
+# vtk_ubuntu_qt_notes
+vtk库在ubuntu下结合qt的使用笔记
